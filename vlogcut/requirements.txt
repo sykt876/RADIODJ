@@ -1,0 +1,6 @@
+# 解析に必要
+numpy>=1.24
+
+# ffmpeg が PATH に無い場合のみ。静的ビルドの ffmpeg を Python から使えるようにする。
+# brew / apt で ffmpeg を入れている場合は不要。
+# imageio-ffmpeg>=0.4.9
