@@ -1,5 +1,7 @@
 # クロードコード（Claude Code）で自動化しやすく、マネタイズしやすいSNS — 全世界規模調査
 
+> ⚠️ このレポートは「配信チャネルとしてのSNS」に限定した調査です。手段をSNSに限定せず「自動化して稼ぐ」全体を比較した上位版は [automation-monetization-playbook.md](./automation-monetization-playbook.md) を参照してください。
+
 調査日: 2026-09-16 / 対象: グローバル主要SNS + 地域系プラットフォーム + パブリッシング系
 
 ---
